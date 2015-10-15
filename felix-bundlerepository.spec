@@ -4,7 +4,7 @@
 
 Name:           felix-bundlerepository
 Version:        1.6.6
-Release:        15.1%{?dist}
+Release:        15.2
 Summary:        Bundle repository service
 License:        ASL 2.0 and MIT
 URL:            http://felix.apache.org/site/apache-felix-osgi-bundle-repository.html
@@ -17,7 +17,7 @@ BuildArch:      noarch
 BuildRequires:  maven-local
 BuildRequires:  mvn(junit:junit)
 BuildRequires:  mvn(net.sf.kxml:kxml2)
-BuildRequires:  mvn(org.apache.felix:felix-parent)
+BuildRequires:  mvn(org.apache.felix:felix-parent:pom:)
 BuildRequires:  mvn(org.apache.felix:org.apache.felix.shell)
 BuildRequires:  mvn(org.apache.felix:org.apache.felix.utils)
 BuildRequires:  mvn(org.apache.felix:org.osgi.service.obr)
