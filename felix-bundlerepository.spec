@@ -4,7 +4,7 @@
 
 Name:           felix-bundlerepository
 Version:        1.6.6
-Release:        15.2
+Release:        15.3
 Summary:        Bundle repository service
 License:        ASL 2.0 and MIT
 URL:            http://felix.apache.org/site/apache-felix-osgi-bundle-repository.html
