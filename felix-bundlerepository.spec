@@ -7,7 +7,7 @@ Version:        1.6.6
 Release:        15.3
 Summary:        Bundle repository service
 License:        ASL 2.0 and MIT
-URL:            http://felix.apache.org/site/apache-felix-osgi-bundle-repository.html
+URL:            https://felix.apache.org/site/apache-felix-osgi-bundle-repository.html
 
 Source0:        http://www.fightrice.com/mirrors/apache/felix/org.apache.felix.bundlerepository-%{version}-source-release.tar.gz
 Patch1:         0001-Unbundle-libraries.patch
